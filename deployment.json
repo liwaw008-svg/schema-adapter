@@ -1,0 +1,17 @@
+{
+  "project": "schema-adapter",
+  "network": "StudioNet",
+  "contractAddress": "0xC544aD91272199916f15432a98dAd0197F15dF0c",
+  "deploymentTransaction": "0x3d326510d9f801c471e853f1e244be9da5f057f3addab0e1efdeee7d6b1b532f",
+  "status": "FINALIZED",
+  "consensus": "MAJORITY_AGREE",
+  "execution": "SUCCESS",
+  "sourceCommit": "425121fcd917def543545ea8eb3a0c633007ea02",
+  "repository": "https://github.com/liwaw008-svg/schema-adapter",
+  "sourceMatchVerified": true,
+  "wallet": "0x05C0cc3F433F6e296f18117f558FdB9043434793",
+  "liveInitializationTransaction": "0x10a49c1f171f3bc8a189bc77e7a515d9e624a03ff9e098b91b77a06a8601aee4",
+  "liveRecordId": "LIVE-SCHEMA-1789928201",
+  "liveState": "REGISTERED",
+  "explorerAddress": "https://explorer-studio.genlayer.com/address/0xC544aD91272199916f15432a98dAd0197F15dF0c"
+}
